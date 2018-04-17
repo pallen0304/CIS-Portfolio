@@ -1,0 +1,3 @@
+In the case of Webvan, an online grocery delivery service, a more complex infrastructure system was needed to support the business. The objective of the business was to establish itself as having a brick and mortar business in addition to its use of the Internet Enabled Business Model.
+
+The issue in this case is that they do not have the funding to do so. The resolution is to be acquired by a larger organization that has the infrastructure to support their needs.

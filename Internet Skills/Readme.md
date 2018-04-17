@@ -1,0 +1,6 @@
+In this section of my portfolio, there are examples of my experiences in learning about and understanding IT infrastructure issues and topics related to computer and systems architecture and communication networks, with an overall focus on the services and capabilities that IT infrastructure solutions enable in an organizational context.
+I developed a ASP.Net MVC Web Application with several other colleagues. I was responsible for system infrastructure, backend logic, database design, and environment management. This project is located in the KYHBPA (Kentucky Horsemen Benevolent and Protective Association) directory. The KYHBPA was the non-profit organization selected by the university for the semester I learned about these topics per our community-outreach objectives.
+
+I gained the knowledge and skills needed for communicating effectively with professionals whose special focus is on hardware and systems software technology and for designing processes and solutions that require in-depth understanding of the IT infrastructure capabilities and limitations.
+In the Lab Reports folder, I demonstrate how I would achieve different objectives using the terminal application of the machine I am operating on.
+In the Home Assignments directory, I gained experience with the concepts learned in prior classes.

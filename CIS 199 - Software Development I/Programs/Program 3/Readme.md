@@ -1,6 +1,0 @@
-Purpose: This assignment explores the use of parallel arrays and range matching.
-
-
-This assignment asks you to re-solve Program 2 using parallel arrays and range matching (as in the Chapter 7 PowerPoint supplementary slides) to perform the decision making for the selection of registration time. Use your instructor's solution to Program 2 Version 3 as your starting point. Keep the rest of the decision logic for assigning the registration date the same. Remember, Program 2 asked you to create a Windows Forms GUI application that will determine the earliest time that a continuing UofL undergraduate student may register for Spring 2017 courses using the priority registration schedule available from the Registrar's site: Spring 2017 Priority Registration Schedule for Continuing Students.
-
-Be sure to add appropriate comments in your code, including your Grading ID (not name nor student ID), program number, due date, and course section. Each variable used in your program needs a comment describing its purpose. Preconditions and postconditions are now required, as well.

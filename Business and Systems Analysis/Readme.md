@@ -1,0 +1,5 @@
+The courses I have taken introduced the fundamentals of object-oriented analysis and design, including experience with a CASE tool.  Topics include requirements determination, feasibility analysis, modeling with Unified Modeling Language (UML) and data dictionary construction, data modeling and normalization, user interface requirements specification, and information security procedures.
+See more on this in the Iterations folder.
+
+They further developmented my understanding of strategic development of information technology; value chain analysis and its application to information resource management; information systems planning; organizing, staffing, and controlling the deployment of information technology; the development of an IT platform and architecture consistent with organizational structure.
+See more on this in the Cases folder.

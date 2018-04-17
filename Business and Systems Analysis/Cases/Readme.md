@@ -1,0 +1,1 @@
+Each of these cases was designed to make students reflect on what they had learned previously from the classes they were in, as a misdirect. Each case has a game-changing twist in it.

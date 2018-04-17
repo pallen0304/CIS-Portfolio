@@ -1,0 +1,1 @@
+This case was developed with the intent of misdirection. Those studying it would assume the decision needing to be made is of what organizational structure to use, but the real issue was that the company hadn't set their organizational strategy.

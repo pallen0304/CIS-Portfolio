@@ -1,0 +1,5 @@
+The Internal Revenue Service is the revenue service of the U.S. federal government. Founded in 1862, this government agency is responsible for the collection of taxes and for upholding the Internal Revenue Code, the domestic portion of federal statutory tax law in the U.S.
+
+The issue for the IRS was the implementation of an automated collection system disrupted the way employees worked, and they were unhappy with it. They were less involved in cases, but more importantly, it was tracking their actions and impacting their pay, how they spent their time. While productivity was up because of the system, it was slowly going down as employees left the organization and would eventually fail due to insufficient employees.
+
+The resolution was to change the way the system was managed. Monitoring would be made less intrusive, and it would be clear when it was occurring.

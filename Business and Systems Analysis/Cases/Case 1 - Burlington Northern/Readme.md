@@ -1,0 +1,3 @@
+This case was designed for business students, to teach them about the importance of understanding subjects of business such as finance and accounting, and their relationships to business analysis.
+
+The details of the case, for those experienced enough to understand the income statements, balance sheets, and capital expenditures on the second and third pages of the case, should be ignored and the fact that Burlington Northern is broke, without any money, should be clear. The resolution of the case is to do nothing.
