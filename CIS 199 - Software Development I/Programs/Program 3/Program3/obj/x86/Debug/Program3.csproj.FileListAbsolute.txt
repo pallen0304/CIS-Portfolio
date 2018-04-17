@@ -1,0 +1,16 @@
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Prog2V3\Prog2\bin\Debug\Prog2.exe
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Prog2V3\Prog2\bin\Debug\Prog2.pdb
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Prog2V3\Prog2\obj\x86\Debug\Program3.csprojResolveAssemblyReference.cache
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Prog2V3\Prog2\obj\x86\Debug\Prog2.Properties.Resources.resources
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Prog2V3\Prog2\obj\x86\Debug\Prog2.RegForm.resources
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Prog2V3\Prog2\obj\x86\Debug\Program3.csproj.GenerateResource.Cache
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Prog2V3\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Prog2V3\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Program3\Program3\obj\x86\Debug\Prog2.exe
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Program3\Program3\obj\x86\Debug\Prog2.pdb
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Program3\Program3\obj\x86\Debug\Program3.csprojResolveAssemblyReference.cache
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Program3\Program3\obj\x86\Debug\Prog2.Properties.Resources.resources
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Program3\Program3\obj\x86\Debug\Program3.RegForm.resources
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Program3\Program3\obj\x86\Debug\Program3.csproj.GenerateResource.Cache
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Program3\Program3\bin\Debug\Prog2.exe
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Projects\Program3\Program3\bin\Debug\Prog2.pdb

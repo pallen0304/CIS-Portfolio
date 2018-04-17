@@ -1,0 +1,9 @@
+c:\users\wowgk\Documents\Visual Studio 2015\Projects\Program2\Program2\bin\Debug\Program2.exe.config
+c:\users\wowgk\Documents\Visual Studio 2015\Projects\Program2\Program2\obj\Debug\Program2.csprojResolveAssemblyReference.cache
+c:\users\wowgk\Documents\Visual Studio 2015\Projects\Program2\Program2\obj\Debug\Program2.Properties.Resources.resources
+c:\users\wowgk\Documents\Visual Studio 2015\Projects\Program2\Program2\obj\Debug\Program2.csproj.GenerateResource.Cache
+C:\Users\wowgk\Documents\Visual Studio 2015\Projects\Program2\Program2\bin\Debug\Program2.exe
+C:\Users\wowgk\Documents\Visual Studio 2015\Projects\Program2\Program2\bin\Debug\Program2.pdb
+C:\Users\wowgk\Documents\Visual Studio 2015\Projects\Program2\Program2\obj\Debug\Program2.Program2.resources
+C:\Users\wowgk\Documents\Visual Studio 2015\Projects\Program2\Program2\obj\Debug\Program2.exe
+C:\Users\wowgk\Documents\Visual Studio 2015\Projects\Program2\Program2\obj\Debug\Program2.pdb

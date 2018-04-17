@@ -1,0 +1,16 @@
+Team Name: Essential Systems
+Devs: Louis Ries(LR), Andrew Huff(AH)
+Others: Krysta Albertson(KA), Nick Phelps(NP), Jordan Gates(JG), Adam Passanisi(AP)
+Pairing Per Assignment 1: {LR, JG}, {KA, AP}, {NP, AH)
+Pairing Per Assignment 2: {LR, AH}, {KA, JG}, {NP, AP)
+
+
+Agile process used in class:
+	  Planning - Problems, Feasibility
+	  Analysis - Resource planning, Requirements determination
+		Design - Features
+Implementation - Coding
+
+Assignment 1: 
+	Acquire 10 processes used on other sites that the team wants to use for our project.
+		Identify processes, analyze implementation, decide on whether or not to use

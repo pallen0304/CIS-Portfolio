@@ -1,0 +1,13 @@
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\obj\Debug\LibraryItems.LibraryDriver.resources
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\obj\Debug\LibraryItems.View.ReturnForm.resources
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\obj\Debug\LibraryItems.View.CheckOutForm.resources
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\obj\Debug\LibraryItems.View.InsertBookForm.resources
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\obj\Debug\LibraryItems.View.InsertPatronForm.resources
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\bin\Debug\Prog2.exe
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\obj\Debug\Prog2.exe
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 2\Prog2\obj\Debug\Prog2.pdb

@@ -1,0 +1,9 @@
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Program1\Program1\obj\Debug\Program1.Program1.resources
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.Cache
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\wowgk\OneDrive\Documents\Visual Studio 2015\Program1\Program1\obj\Debug\Program1.pdb

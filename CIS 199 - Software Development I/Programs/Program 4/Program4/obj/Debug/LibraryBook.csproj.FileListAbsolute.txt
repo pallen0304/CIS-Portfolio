@@ -1,0 +1,9 @@
+c:\users\wowgk\documents\visual studio 2015\Projects\LibraryBook\LibraryBook\bin\Debug\LibraryBook.exe.config
+c:\users\wowgk\documents\visual studio 2015\Projects\LibraryBook\LibraryBook\bin\Debug\LibraryBook.exe
+c:\users\wowgk\documents\visual studio 2015\Projects\LibraryBook\LibraryBook\bin\Debug\LibraryBook.pdb
+c:\users\wowgk\documents\visual studio 2015\Projects\LibraryBook\LibraryBook\obj\Debug\LibraryBook.csprojResolveAssemblyReference.cache
+c:\users\wowgk\documents\visual studio 2015\Projects\LibraryBook\LibraryBook\obj\Debug\LibraryBook.LibraryBookForm.resources
+c:\users\wowgk\documents\visual studio 2015\Projects\LibraryBook\LibraryBook\obj\Debug\LibraryBook.Properties.Resources.resources
+c:\users\wowgk\documents\visual studio 2015\Projects\LibraryBook\LibraryBook\obj\Debug\LibraryBook.csproj.GenerateResource.Cache
+c:\users\wowgk\documents\visual studio 2015\Projects\LibraryBook\LibraryBook\obj\Debug\LibraryBook.exe
+c:\users\wowgk\documents\visual studio 2015\Projects\LibraryBook\LibraryBook\obj\Debug\LibraryBook.pdb

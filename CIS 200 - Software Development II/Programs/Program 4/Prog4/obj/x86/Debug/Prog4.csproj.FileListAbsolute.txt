@@ -1,0 +1,8 @@
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 4\Prog4\bin\Debug\Prog4.exe.config
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 4\Prog4\obj\x86\Debug\Prog4.csprojResolveAssemblyReference.cache
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 4\Prog4\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 4\Prog4\obj\x86\Debug\Prog4.csproj.GenerateResource.Cache
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 4\Prog4\bin\Debug\Prog4.exe
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 4\Prog4\bin\Debug\Prog4.pdb
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 4\Prog4\obj\x86\Debug\Prog4.exe
+C:\Users\wowgk\Desktop\CIS Portfolio\CIS 200 - Software Development II\Programs\Program 4\Prog4\obj\x86\Debug\Prog4.pdb
