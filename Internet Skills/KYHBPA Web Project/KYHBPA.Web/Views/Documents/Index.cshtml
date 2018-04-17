@@ -1,0 +1,27 @@
+﻿@model KYHBPA.Models.DocumentsListViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th></th>
+    </tr>
+
+@foreach (var id in Model.Ids) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id }) |
+            @Html.ActionLink("Details", "Details", new { id }) |
+            @Html.ActionLink("Delete", "Delete", new { id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,15 @@
+﻿@model KYHBPA.Models.PhotoDetailedViewModel
+@{
+    ViewBag.Title = "Details";
+}
+<h2>Details</h2>
+<div>
+    <h4>Photo</h4>
+    <hr />
+    @Html.Partial("_DetailsDL")
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Delete", "Delete", new { id = Model.Id }) |
+    @Html.ActionLink("Back to Gallery", "Index")
+</p>

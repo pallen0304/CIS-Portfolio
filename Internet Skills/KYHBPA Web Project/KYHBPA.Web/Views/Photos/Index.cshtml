@@ -1,0 +1,35 @@
+﻿@model KYHBPA.Models.PhotoGalleryViewModel
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div style="display: flex">
+    @foreach (var id in Model.Ids)
+    {
+        <div class="col-xs-3">
+            @if (!Model.CurrentUser.IsNull())
+            {
+                <a href="Photos/Details/@id">
+                    <div class="smallImageWrapper">
+                        <img src="@Url.Action("RenderImage", new {id = id})" class="img-thumbnail smallImage" />
+                    </div>
+                </a>
+            }
+            else
+            {
+                <div class="smallImageWrapper">
+                    <img src="@Url.Action("RenderImage", new {id = id})" class="img-thumbnail smallImage" />
+                </div>
+            }
+        </div>
+        @*<td>
+                @Html.ActionLink("Edit", "Edit", new { id = photo.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = photo.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = photo.Id })
+            </td>*@
+    }
+</div>

@@ -1,0 +1,24 @@
+﻿body {
+
+}
+
+.button {
+    background-color: darkorange;
+    border: solid;
+    color: navy;
+    font-weight: bold;
+    font-style: italic;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 12px;
+}
+
+    .button:hover {
+        background-color: white;
+        color: orange;
+        border: solid;
+}

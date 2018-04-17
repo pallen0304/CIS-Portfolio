@@ -1,0 +1,67 @@
+﻿@model KYHBPA.Models.IndexViewModel
+@{
+    ViewBag.Title = "Manage";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+    <h4>Change your account settings</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Password:</dt>
+        <dd>
+            [
+            @if (Model.HasPassword)
+            {
+                @Html.ActionLink("Change your password", "ChangePassword")
+            }
+            else
+            {
+                @Html.ActionLink("Create", "SetPassword")
+            }
+            ]
+        </dd>
+        <dt>@Html.DisplayNameFor(o=>o.Member.FullName)</dt>
+        <dd>@Html.DisplayFor(o=>o.Member.FullName)</dd>
+        <dt>@Html.DisplayNameFor(o => o.Member.Email)</dt>
+        <dd>@Html.DisplayFor(o => o.Member.Email)</dd>
+        <dt>@Html.DisplayNameFor(o => o.Member.PhoneNumber)</dt>
+        <dd>@Html.DisplayFor(o => o.Member.PhoneNumber)</dd>
+        <dt>@Html.DisplayNameFor(o => o.Member.Address)</dt>
+        <dd>@Html.DisplayFor(o => o.Member.Address)</dd>
+        <dt>@Html.DisplayNameFor(o => o.Member.City)</dt>
+        <dd>@Html.DisplayFor(o => o.Member.City)</dd>
+        <dt>@Html.DisplayNameFor(o => o.Member.State)</dt>
+        <dd>@Html.DisplayFor(o => o.Member.State)</dd>
+        <dt>@Html.DisplayNameFor(o => o.Member.ZipCode)</dt>
+        <dd>@Html.DisplayFor(o => o.Member.ZipCode)</dd>
+        <dt>@Html.DisplayNameFor(o => o.Member.IsOwner)</dt>
+        <dd>@Html.DisplayFor(o => o.Member.IsOwner)</dd>
+        <dt>@Html.DisplayNameFor(o => o.Member.IsTrainer)</dt>
+        <dd>@Html.DisplayFor(o => o.Member.IsTrainer)</dd>
+        <dt>@Html.DisplayNameFor(o=>o.Member.LicenseNumber)</dt>
+        <dd>@Html.DisplayFor(o => o.Member.LicenseNumber)</dd>
+        @*  
+            <dt>Phone Number:</dt>
+            <dd>
+                @(Model.PhoneNumber ?? "None")
+                @if (Model.PhoneNumber != null)
+                {
+                    <br />
+                    <text>[&nbsp;&nbsp;@Html.ActionLink("Change", "AddPhoneNumber")&nbsp;&nbsp;]</text>
+                    using (Html.BeginForm("RemovePhoneNumber", "Manage", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <text>[<input type="submit" value="Remove" class="btn-link" />]</text>
+                    }
+                }
+                else
+                {
+                    <text>[&nbsp;&nbsp;@Html.ActionLink("Add", "AddPhoneNumber")
+                }
+            </dd>
+        *@
+    </dl>
+</div>
